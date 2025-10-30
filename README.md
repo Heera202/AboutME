@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Deputy Mashahary]
 
 <div align="center">
   
@@ -20,15 +20,15 @@ class MachineLearningEngineer:
     def __init__(self):
         self.name = "Your Name"
         self.role = "AI/ML Engineer & Full Stack Developer"
-        self.location = "Barpeta, Assam, India"
-        self.education = "Computer Science & Engineering"
+        self.location = "Kokrajahr, Assam, India"
+        self.education = "Computer Science"
         
     def skills(self):
         return {
             "languages": ["Python", "JavaScript", "SQL"],
             "ml_frameworks": ["TensorFlow", "scikit-learn", "XGBoost", "Keras"],
             "web_frameworks": ["FastAPI", "Flask", "Django"],
-            "databases": ["PostgreSQL", "MongoDB", "SQLite"],
+            "databases": ["PostgreSQL", "MongoDB"],
             "tools": ["Docker", "Git", "Jupyter", "Prometheus"],
             "cloud": ["AWS", "Google Cloud", "Azure"]
         }
@@ -278,7 +278,7 @@ graph LR
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true)](https://github.com/yourusername)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Heera202&theme=tokyo-night&hide_border=true)](https://github.com/Heera)
 
 </div>
 
