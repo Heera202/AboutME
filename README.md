@@ -17,7 +17,7 @@
 ```python
 class MachineLearningEngineer:
     def __init__(self):
-        self.name = "Your Name"
+        self.name = "Deputy Mashahary"
         self.role = "AI/ML Engineer & Full Stack Developer"
         self.location = "Kokrajahr, Assam, India"
         self.education = "Computer Science"
