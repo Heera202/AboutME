@@ -69,7 +69,7 @@ class MachineLearningEngineer:
 ### ⚡ AI Smart Grid Simulation System
 *Intelligent Energy Management Platform with Real-time Analytics*
 
-[![View Project](https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=github)](https://github.com/yourusername/smart-grid-simulation)
+[![View Project](https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=github)](https://github.com/Heera202/smart-grid-simulation)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=google-chrome)](https://your-demo-link.com)
 
 ```
@@ -129,7 +129,7 @@ graph LR
 ### 🏠 House Price Prediction System
 *ML-powered Real Estate Valuation Platform*
 
-[![View Project](https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=github)](https://github.com/yourusername/house-price-prediction)
+[![View Project](https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=github)](https://github.com/Heera202/House-Price)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=google-chrome)](https://your-demo-link.com)
 
 ```
@@ -188,7 +188,7 @@ graph TD
 ### 🎓 Student Performance Prediction System
 *Educational Analytics with Interactive Dashboard*
 
-[![View Project](https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=github)](https://github.com/yourusername/student-performance-prediction)
+[![View Project](https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=github)](https://github.com/Heera202/Student-Performance-Predictor)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=google-chrome)](https://your-demo-link.com)
 
 ```
@@ -308,16 +308,6 @@ goals_2025 = {
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🔥 [Building Real-time ML Systems with FastAPI](https://yourblog.com/post1)
-- 💡 [LSTM vs Traditional Methods for Time Series Forecasting](https://yourblog.com/post2)
-- ⚡ [Deploying ML Models with Docker: A Complete Guide](https://yourblog.com/post3)
-- 🎯 [Hyperparameter Tuning: GridSearch vs RandomSearch](https://yourblog.com/post4)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## 🤝 Let's Connect!
 
