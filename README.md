@@ -96,7 +96,7 @@ class MachineLearningEngineer:
 #### 🛠️ Tech Stack
 
 - **Backend:** FastAPI, Python
-- **Frontend:** Django, Chart.js
+- **Frontend:** Django, Chart.js, HTML, CSS, JavaScript
 - **ML:** TensorFlow, XGBoost, scikit-learn
 - **Infrastructure:** Docker, Nginx, Prometheus
 - **Data:** pandas, numpy, CSV streaming
