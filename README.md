@@ -24,7 +24,7 @@ class MachineLearningEngineer:
         
     def skills(self):
         return {
-            "languages": ["Python", "JavaScript", "SQL"],
+            "languages": ["Python", "JavaScript", "SQL", "HTML", "CSS"],
             "ml_frameworks": ["TensorFlow", "scikit-learn", "XGBoost", "Keras"],
             "web_frameworks": ["FastAPI", "Flask", "Django"],
             "databases": ["PostgreSQL", "MongoDB"],
@@ -56,6 +56,10 @@ class MachineLearningEngineer:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 </div>
 
@@ -96,7 +100,7 @@ class MachineLearningEngineer:
 #### 🛠️ Tech Stack
 
 - **Backend:** FastAPI, Python
-- **Frontend:** Django, Chart.js, HTML, CSS, JavaScript
+- **Frontend:** Django, Chart.js
 - **ML:** TensorFlow, XGBoost, scikit-learn
 - **Infrastructure:** Docker, Nginx, Prometheus
 - **Data:** pandas, numpy, CSV streaming
